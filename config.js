@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254110077535', 'zamzack254', true],
-  ['254110077535', 'kinflux digital', true], 
+  ['2550545752448', '『𝕮𝕯❦』⇝͜͡✪🏴‍☠️⃠⃤ΣRRΩR💀⃠⃤⇝͜͡✪', true],
+  ['2550545752448', '『𝕮𝕯❦』⇝͜͡✪🏴‍☠️⃠⃤ΣRRΩR💀⃠⃤⇝͜͡✪', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['254110077535','254110377776'] 
-global.prems = ['254110077535', '254110377776', '254765777423']
+global.mods = ['2550545752448','2550545752448'] 
+global.prems = ['2550545752448', '2550545752448', '2550545752448']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'kinflux bot'
 global.premium = 'true'
 global.packname = 'kinflux┃ᴮᴼᵀ' 
-global.author = 'zamzack254' 
+global.author = '『𝕮𝕯❦』⇝͜͡✪🏴‍☠️⃠⃤ΣRRΩR💀⃠⃤⇝͜͡✪' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD\n' 
 global.dygp = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
@@ -62,7 +62,7 @@ global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru
 global.wait = '*⌛ _loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '👀'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
